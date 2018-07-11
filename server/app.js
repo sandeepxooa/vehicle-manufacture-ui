@@ -18,7 +18,7 @@ var app = express();
 var server = http.createServer(app);
 
 app.use(bodyParser.json());
-app.use(favicon(path.join(__dirname, '..', 'public1', 'icon', 'favicon.ico')));
+app.use(favicon(path.join(__dirname, '..', 'favicon.ico')));
 
 // static - all our js, css, images, etc go into the assets path
 app.use('/app', express.static(path.join(__dirname, '../client', 'app')));
