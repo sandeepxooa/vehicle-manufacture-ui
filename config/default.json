@@ -1,9 +1,9 @@
 {
   "restServer": {
     "webSocketURL":
-      "ws://api-gw-1264758337.ap-south-1.elb.amazonaws.com/api/sandeepxooa5tsmuwxph",
+      "wss://sandeepapi.tk/api/sandeepxooa5tsmuwxph",
     "httpURL":
-      "http://api-gw-1264758337.ap-south-1.elb.amazonaws.com/api/sandeepxooa5tsmuwxph",
+      "https://sandeepapi.tk/api/sandeepxooa5tsmuwxph",
     "authToken":
       "bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcGlLZXkiOiJRQVNYQ0JNLUM0MTRaNk0tSEdSQ1pNUS1KUFdEVDZSIiwiQXBpU2VjcmV0IjoiQjdYMk9TSEJ0VldpQ1lqIiwiaWF0IjoxNTMxMjIwMTAyfQ.SnIV4MX3eNluVkeXtmKeVgEnv1Lt9Ni04DMtAqvN1ZI"
   }
