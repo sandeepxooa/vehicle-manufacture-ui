@@ -1,9 +1,9 @@
 {
   "restServer": {
     "webSocketURL":
-      "wss://sandeepapi.tk/api/sandeepxooa5tsmuwxph",
+      "wss://api.xooa.com/api/sandeepxooa5tsmuwxph",
     "httpURL":
-      "https://sandeepapi.tk/api/sandeepxooa5tsmuwxph",
+      "https://api.xooa.com/api/sandeepxooa5tsmuwxph",
     "authToken":
       "bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcGlLZXkiOiJRQVNYQ0JNLUM0MTRaNk0tSEdSQ1pNUS1KUFdEVDZSIiwiQXBpU2VjcmV0IjoiQjdYMk9TSEJ0VldpQ1lqIiwiaWF0IjoxNTMxMjIwMTAyfQ.SnIV4MX3eNluVkeXtmKeVgEnv1Lt9Ni04DMtAqvN1ZI"
   }
