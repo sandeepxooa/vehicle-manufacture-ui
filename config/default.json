@@ -1,10 +1,10 @@
 {
   "restServer": {
     "webSocketURL":
-      "wss://api.xooa.com/api/vishalxooap3zyu427y",
+      "wss://api.dev.xooa.com/api/sandeepxooaladmm2lep",
     "httpURL":
-      "https://api.xooa.com/api/vishalxooap3zyu427y",
+      "https://api.dev.xooa.com/api/sandeepxooaladmm2lep",
     "authToken":
-      "bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcGlLZXkiOiI2SkM0NUgyLUg1S003QkQtSDFDUEJCTS04OVpWUFRGIiwiQXBpU2VjcmV0IjoiM1AyZjhURmZWd2ZiZWpLIiwiaWF0IjoxNTMzNzI3MDA1fQ.8opHo4X-LNBrq0Zsbah9bOdJKJXCGeqmUlqnrbIFRks"
+      "bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcGlLZXkiOiI4MUYxQTRZLThQM01HOVctS0ozSEo2NC1IWlgwM0pOIiwiQXBpU2VjcmV0IjoiTk11Z25XWVFIdjJLbFpuIiwiaWF0IjoxNTM0NTc2ODE5fQ.G0pURd1yr0iY-SYwAz6gY_jbtBPR3gKQN9TTlYvQa6c"
   }
 }
